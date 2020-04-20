@@ -1,0 +1,14 @@
+cd/
+*.json
+IP.BIN*
+*.asm
+*.bin
+*.cue
+*.elf
+*.iso
+*.map
+*.srm
+*.sym
+*.i
+*.s
+src/*.d
